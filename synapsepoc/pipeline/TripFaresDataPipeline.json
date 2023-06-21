@@ -481,7 +481,7 @@
 			},
 			"datalakeAccountName": {
 				"type": "string",
-				"defaultValue": "dem7hy4bbadtamv2pocws1"
+				"defaultValue": "dem7hy4bbadtamv2poc"
 			}
 		},
 		"folder": {
